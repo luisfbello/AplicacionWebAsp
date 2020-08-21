@@ -20521,11 +20521,6 @@
   "RootNamespace": "AplicacionWeb",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\luisf\\OneDrive\\Escritorio\\punto_net\\fundamentos_csharp\\AplicacionWeb\\Views\\Shared\\_AsignaturaSimple.cshtml",
-      "TargetPath": "Views\\Shared\\_AsignaturaSimple.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\luisf\\OneDrive\\Escritorio\\punto_net\\fundamentos_csharp\\AplicacionWeb\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -20556,6 +20551,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\luisf\\OneDrive\\Escritorio\\punto_net\\fundamentos_csharp\\AplicacionWeb\\Views\\Shared\\_ObjetoEscuelaSimple.cshtml",
+      "TargetPath": "Views\\Shared\\_ObjetoEscuelaSimple.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\luisf\\OneDrive\\Escritorio\\punto_net\\fundamentos_csharp\\AplicacionWeb\\Views\\Alumno\\Index.cshtml",
+      "TargetPath": "Views\\Alumno\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\luisf\\OneDrive\\Escritorio\\punto_net\\fundamentos_csharp\\AplicacionWeb\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -20563,6 +20568,11 @@
     {
       "FilePath": "c:\\Users\\luisf\\OneDrive\\Escritorio\\punto_net\\fundamentos_csharp\\AplicacionWeb\\Views\\Shared\\_simple.cshtml",
       "TargetPath": "Views\\Shared\\_simple.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\luisf\\OneDrive\\Escritorio\\punto_net\\fundamentos_csharp\\AplicacionWeb\\Views\\Shared\\_ObjetosEscuela.cshtml",
+      "TargetPath": "Views\\Shared\\_ObjetosEscuela.cshtml",
       "FileKind": "mvc"
     },
     {

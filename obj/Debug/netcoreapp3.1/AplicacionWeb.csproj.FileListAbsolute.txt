@@ -38,4 +38,6 @@ C:\Users\luisf\OneDrive\Escritorio\punto_net\fundamentos_csharp\AplicacionWeb\ob
 C:\Users\luisf\OneDrive\Escritorio\punto_net\fundamentos_csharp\AplicacionWeb\obj\Debug\netcoreapp3.1\Razor\Views\Escuela\Index.cshtml.g.cs
 C:\Users\luisf\OneDrive\Escritorio\punto_net\fundamentos_csharp\AplicacionWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_simple.cshtml.g.cs
 C:\Users\luisf\OneDrive\Escritorio\punto_net\fundamentos_csharp\AplicacionWeb\obj\Debug\netcoreapp3.1\Razor\Views\Asignatura\Index.cshtml.g.cs
-C:\Users\luisf\OneDrive\Escritorio\punto_net\fundamentos_csharp\AplicacionWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AsignaturaSimple.cshtml.g.cs
+C:\Users\luisf\OneDrive\Escritorio\punto_net\fundamentos_csharp\AplicacionWeb\obj\Debug\netcoreapp3.1\Razor\Views\Alumno\Index.cshtml.g.cs
+C:\Users\luisf\OneDrive\Escritorio\punto_net\fundamentos_csharp\AplicacionWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ObjetoEscuelaSimple.cshtml.g.cs
+C:\Users\luisf\OneDrive\Escritorio\punto_net\fundamentos_csharp\AplicacionWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ObjetosEscuela.cshtml.g.cs
